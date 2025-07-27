@@ -1,6 +1,5 @@
-- This is "Icosahedral Dice", an obscure reference to a video game. (EDIT: removed "lesser-known" and added regret to the downfall of the DA/UM collective)
-- I am currently a financial engineering student with some side projects on computational biology (thank you Rose).
-- Have fun!
+- Mingsen Wang, quantitative researcher at Balyasny Asset Management.
+- Also a computational genetics enthusiast (thank you Rose)
 
 <!---
 Icosahedral-Dice/Icosahedral-Dice is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
